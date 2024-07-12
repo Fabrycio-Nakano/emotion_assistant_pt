@@ -22,5 +22,8 @@ Emotion Talk é um sistema projetado para fornecer suporte emocional contínuo p
 - **POC:** Código da prova de conceito
 - **Paper:** Artigo desenvolvido sobre o Emotion Talk
 
-## Apresentação final com vídeos de demonstração
+## Apresentação final
 - [Apresentação no Canva](https://www.canva.com/design/DAGKZ_sh7YI/bzeaNDeHxr-4aNtEftOddQ/view?utm_content=DAGKZ_sh7YI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+## Vídeo de demonstração
+- [Demo Emotion Talk](https://drive.google.com/file/d/1KYOi0Aht4sqRLRtGuzH_6wvhlwKU8AN_/view?usp=sharing)
