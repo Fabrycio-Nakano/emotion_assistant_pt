@@ -20,6 +20,7 @@ Emotion Talk é um sistema projetado para fornecer suporte emocional contínuo p
 ## Estrutura do Repositório
 - **Code:** Códigos de treinando do modelo de áudio, testes com modelos pré-treinados, Llama 3 e versão final integrada do Emotion Talk usando o GPT-3.5 Turbo
 - **POC:** Código da prova de conceito
+- **Paper:** Artigo desenvolvido sobre o Emotion Talk
 
 ## Apresentação final com vídeos de demonstração
 - [Apresentação no Canva](https://www.canva.com/design/DAGKZ_sh7YI/bzeaNDeHxr-4aNtEftOddQ/view?utm_content=DAGKZ_sh7YI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
