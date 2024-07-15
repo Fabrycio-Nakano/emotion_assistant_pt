@@ -30,4 +30,4 @@ Emotion Talk é um sistema projetado para fornecer suporte emocional contínuo p
 - [Demo Emotion Talk](https://drive.google.com/file/d/1KYOi0Aht4sqRLRtGuzH_6wvhlwKU8AN_/view?usp=sharing)
 
 ## Paper
-- [arxiv]([https://drive.google.com/file/d/1KYOi0Aht4sqRLRtGuzH_6wvhlwKU8AN_/view?usp=sharing](https://arxiv.org/abs/2407.08992))
+- [arxiv]([https://drive.google.com/file/d/1KYOi0Aht4sqRLRtGuzH_6wvhlwKU8AN_/view?usp=sharing](https://arxiv.org/abs/2407.08992)
